@@ -3,7 +3,7 @@ import bg from '../assets/authBg.png'
 import { IoEyeSharp } from "react-icons/io5";
 import { IoIosEyeOff } from "react-icons/io";
 import { useNavigate } from 'react-router-dom';
-import { userDataContext } from '../context/UserContext.JSX';
+import { userDataContext } from '../context/UserContext.jsx';
 import axios from 'axios';
 
 
